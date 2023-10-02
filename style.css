@@ -1,0 +1,89 @@
+body {
+    background: rgb(241, 26, 59);
+    background: linear-gradient(
+        0deg,
+        rgb(212, 207, 175) 0%
+        rgba(228, 217, 255, 1) 0%
+        rgba(30,39,73,1) 100%
+    );
+    background-repeat: no-repeat;
+    height: 100%;
+  }
+  .profileimage {
+      border-radius: 50%;
+  }
+  .profileimagecontainer {
+      display: flex;
+      align-content: center;
+      justify-content: center;
+      height: 200px;
+      box-shadow: 0 0 30px 1px rgba(0, 140, 186, 0.5);
+  }
+  .name {
+      display: flex;
+      align-content: center;
+      justify-content: center;
+      color: rgb(243, 236, 236);
+      font-family:Arial, Helvetica, sans-serif;
+      font-size: 1.5rem;
+  }
+
+  a {
+      display: flex;
+      align-content: center;
+      justify-content: center;
+      border: 1px white solid;
+      background-color: lightblue;
+      text-decoration: none;
+      font-size: 2rem;
+      color: darkslateblue;
+      margin: 30px;
+      padding: 30px;
+    }
+    a:hover {
+        transform: scale(1.04);
+        box-shadow: 5px 5px 10px 2px rgb(252, 235, 205);
+    }
+
+    @media screen and (max-width: 600px) {
+        .name {
+            font-size: 20px;            
+        }
+        .profileimage {
+            height: 180px;
+            width: 180px;
+        }
+        body {
+            height: 75%;
+        }
+    }
+
+    @media screen and (max-width: 426px) {
+        .name {
+            font-size: 15px;            
+        }
+        a {
+            font-size: 1.7rem;
+        }
+        .profileimage {
+            height: 170px;
+            width: 170px;
+        }
+    
+    }
+
+    @media screen and (max-width: 330px) and (min-width: 60px){
+        .name {
+            font-size: 8px;            
+        }
+        a {
+            font-size: 1.2rem;
+        }
+        .profileimage {
+            height: 150px;
+            width: 150px;
+        }
+        body {
+            height: 50%;
+        }
+    }
