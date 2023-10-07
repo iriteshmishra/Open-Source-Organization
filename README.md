@@ -78,7 +78,19 @@ git push -u origin <your_branch_name>
 
 **15** Voila :exclamation: You have made a PR to the Open-Source-Organization :boom: . Wait for your submission to be accepted and your PR to be merged.(Hacktoberfest 2023)
 
+## 🤝 Our Contributors
 
+Thank you for your interest in contributing to our project! We appreciate any contributions, whether it's bug fixes, new features, or documentation improvements.
 
+We value the time and effort you put into contributing, and we look forward to reviewing and merging your contributions. Join us on this exciting journey of creativity and collaboration.
+
+<!-- a big thanks to all the contributors -->
+<p align=center>Contributors are here!!</p>
+
+<center>
+<a href="https://github.com/iriteshmishra/Open-Source-Organization/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=iriteshmishra/Open-Source-Organization" />
+</a>
+</center>
 
 
