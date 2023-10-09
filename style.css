@@ -1,5 +1,5 @@
 body {
-    background: rgb(241, 26, 59);
+    background: rgb(47, 27, 197);
     background: linear-gradient(
         0deg,
         rgb(212, 207, 175) 0%
@@ -28,6 +28,10 @@ body {
       font-size: 1.5rem;
   }
 
+  .name h3{
+    color: lightblue;
+  }
+
   a {
       display: flex;
       align-content: center;
@@ -36,13 +40,15 @@ body {
       background-color: lightblue;
       text-decoration: none;
       font-size: 2rem;
-      color: darkslateblue;
       margin: 30px;
       padding: 30px;
     }
     a:hover {
         transform: scale(1.04);
         box-shadow: 5px 5px 10px 2px rgb(252, 235, 205);
+        background-color: darkslateblue;
+        color: lightblue;
+        
     }
 
     @media screen and (max-width: 600px) {
