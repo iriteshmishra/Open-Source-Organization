@@ -1,3 +1,7 @@
+![logo (1)](https://i.postimg.cc/TPkD2wcm/271873265-e861b9af-9f7c-4cda-b833-d5c14a615025.png)
+
+
+
 # Contribution is fun! :green_heart:
 
 Add any open source organization which you know and is not mentioned in this website:- [Open Source Organization](https://iriteshmishra.github.io/Open-Source-Organization/) 
@@ -92,5 +96,15 @@ We value the time and effort you put into contributing, and we look forward to r
   <img src="https://contrib.rocks/image?repo=iriteshmishra/Open-Source-Organization" />
 </a>
 </center>
+
+## 🤠 Project Admin 
+
+<a href="https://github.com/iriteshmishra"><img src="https://i.postimg.cc/NFdVpR8F/Formal-2.jpg" height="80px"/></a>
+
+<b>Follow Me At</b>
+<br>
+Github - https://github.com/iriteshmishra
+<br>
+Linkedin - https://www.linkedin.com/in/riteshmishra2/
 
 
