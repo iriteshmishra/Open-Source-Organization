@@ -1,5 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 body {
-    background: rgb(47, 27, 197);
+    background: rgb(0, 0, 0);
     background: linear-gradient(
         0deg,
         rgb(212, 207, 175) 0%
@@ -16,20 +17,33 @@ body {
       display: flex;
       align-content: center;
       justify-content: center;
-      height: 200px;
-      box-shadow: 0 0 30px 1px rgba(0, 140, 186, 0.5);
+      margin-top: 3rem;
+      
   }
   .name {
       display: flex;
       align-content: center;
       justify-content: center;
       color: rgb(243, 236, 236);
-      font-family:Arial, Helvetica, sans-serif;
-      font-size: 1.5rem;
+      font-family:Roboto;
+      font-size: 2rem;
+      
   }
+.name svg{
+    padding-top: 1rem;
+    position: relative;
+    top: 0.5rem;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 
+}
   .name h3{
-    color: lightblue;
+    /* color: lightblue; */
+    color: lightgreen;
   }
 
   a {
@@ -37,17 +51,26 @@ body {
       align-content: center;
       justify-content: center;
       border: 1px white solid;
-      background-color: lightblue;
+      border-radius: 2rem;
+      background-color: transparent;
+      color: white;
       text-decoration: none;
       font-size: 2rem;
       margin: 30px;
       padding: 30px;
+      width: 60vw;
+      align-items: center;
+      font-family: 'Roboto';
+      font-weight: 500;
+      transition: 0.5s all;
     }
     a:hover {
         transform: scale(1.04);
-        box-shadow: 5px 5px 10px 2px rgb(252, 235, 205);
-        background-color: darkslateblue;
-        color: lightblue;
+        background-color: lightgreen;
+        border: none;
+        color: black;
+        transition: 0.5s all;
+        font-weight: bolder;
         
     }
 
