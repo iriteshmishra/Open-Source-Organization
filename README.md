@@ -1,10 +1,8 @@
 ![logo (1)](https://i.postimg.cc/TPkD2wcm/271873265-e861b9af-9f7c-4cda-b833-d5c14a615025.png)
 
-
-
 # Contribution is fun! :green_heart:
 
-Add any open source organization which you know and is not mentioned in this website:- [Open Source Organization](https://iriteshmishra.github.io/Open-Source-Organization/) 
+Add any open source organization which you know and is not mentioned in this website:- [Open Source Organization](https://iriteshmishra.github.io/Open-Source-Organization/)
 
 In order to make a hassle-free environment, I implore you all (_while contributing_) to follow the instructions mentioned below!
 
@@ -12,12 +10,12 @@ Happy Submissions :slightly_smiling_face:
 
 ## Contribution Guidelines🏗
 
-Are we missing any of your favorite features, which you think you can add to it❓ We invite you to contribute to this project and make it better. 
-To start contributing, follow the below guidelines: 
+Are we missing any of your favorite features, which you think you can add to it❓ We invite you to contribute to this project and make it better.
+To start contributing, follow the below guidelines:
 
-**1.**  Fork this repository.
+**1.** Fork this repository.
 
-**2.**  Clone your forked copy of the project.
+**2.** Clone your forked copy of the project.
 
 ```
 git clone https://github.com/<your_user_name>/Open-Source-Organization.git
@@ -58,13 +56,13 @@ git checkout -b <your_branch_name>
 **9.** Track your changes:heavy_check_mark: .
 
 ```
-git add . 
+git add .
 ```
 
 **10.** Commit your changes .
 
 ```
-git commit -m "Relevant message"
+git commit -m "Your relevant message"
 ```
 
 **11.** Push the committed changes in your feature branch to your remote repo.
@@ -78,7 +76,6 @@ git push -u origin <your_branch_name>
 **13.** Add appropriate title and description to your pull request explaining your changes and efforts done.
 
 **14.** Click on `Create Pull Request`.
-
 
 **15** Voila :exclamation: You have made a PR to the Open-Source-Organization :boom: . Wait for your submission to be accepted and your PR to be merged.(Hacktoberfest 2023)
 
@@ -97,7 +94,7 @@ We value the time and effort you put into contributing, and we look forward to r
 </a>
 </center>
 
-## 🤠 Project Admin 
+## 🤠 Project Admin
 
 <a href="https://github.com/iriteshmishra"><img src="https://i.postimg.cc/NFdVpR8F/Formal-2.jpg" height="80px"/></a>
 
@@ -106,5 +103,3 @@ We value the time and effort you put into contributing, and we look forward to r
 Github - https://github.com/iriteshmishra
 <br>
 Linkedin - https://www.linkedin.com/in/riteshmishra2/
-
-
