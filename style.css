@@ -9,6 +9,10 @@ body {
     );
     background-repeat: no-repeat;
     height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
   }
   .profileimage {
       border-radius: 50%;
@@ -35,11 +39,19 @@ body {
     top: 0.5rem;
 }
 .container{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 10px;
+  >div{
+    min-width: 150px;
+    >a{
+      text-align: center;
+      min-height: 150px;
+      padding: 20px 40px;
+    }
+  }
 }
   .name h3{
     /* color: lightblue; */
@@ -51,14 +63,11 @@ body {
       align-content: center;
       justify-content: center;
       border: 1px white solid;
-      border-radius: 2rem;
+      border-radius: 20px;
       background-color: transparent;
       color: white;
       text-decoration: none;
-      font-size: 2rem;
-      margin: 30px;
-      padding: 30px;
-      width: 60vw;
+      font-size: 12px;
       align-items: center;
       font-family: 'Roboto';
       font-weight: 500;
