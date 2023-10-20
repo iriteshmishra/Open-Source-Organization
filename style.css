@@ -51,7 +51,7 @@ body {
     color: lightgreen;
   }
 
-  a {
+  input[type="text"],  a {
       display: flex;
       align-content: center;
       justify-content: center;
@@ -68,6 +68,9 @@ body {
       font-family: 'Roboto';
       font-weight: 500;
       transition: 0.5s all;
+    }
+    input[type="text"] {
+        outline-color: lightgreen;
     }
     a:hover {
         transform: scale(1.04);
