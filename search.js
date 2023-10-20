@@ -16,3 +16,13 @@ searchInput.addEventListener("input", function () {
     }
   });
 });
+
+// To add a parallax effect 
+window.addEventListener('scroll', function() {
+    let offset = window.pageYOffset;
+    let profileImage = document.querySelector('.profileimage');
+    let nameSection = document.querySelector('.name');
+
+    profileImage.style.transform = 'translateY(' + offset * 0.5 + 'px)';
+    nameSection.style.transform = 'translateY(' + offset * 0.3 + 'px)';
+});
