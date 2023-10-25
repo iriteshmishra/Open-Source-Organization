@@ -342,5 +342,9 @@
         {
             "name" : "HackSquad",
             "url" : "https://www.hacksquad.dev"
+        },
+        {
+            "name" : "DrivenData Competitions",
+            "url" : "https://www.drivendata.org/competitions/"
         }
 ]
