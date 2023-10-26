@@ -5,10 +5,12 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="shortcut icon" href="https://i.postimg.cc/QCy4mSnv/pic.jpg" type="image/x-icon">
+    <link rel="icon" href="media/logo/faviconX.ico" type="image/x-icon">
     <link rel="stylesheet" href="style.css">
     <script type="text/javascript" src="https://unpkg.com/jquery@3.3.1/dist/jquery.js"></script>
     <script type="text/javascript" src="https://unpkg.com/web3@0.20.5/dist/web3.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha384-Tbn53JWE3fZg5F5iZ46uxbbs5E3Iui74FOcA93LS+cuCs41LhGfeu2ebXYUqFh4W" crossorigin="anonymous">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
     <title>Open Source Organizations</title>
 </head>
 
@@ -17,18 +19,19 @@
         integrity="sha512-HYG9E+RmbXS7oy529Nk8byKFw5jqM3R1zzvoV2JnltsIGkK/AhZSzciYCNxDMOXEbYO9w6MJ6SpuYgm5PJPpeQ=="
         crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
-    <div class="profileimagecontainer">
+
+   <!-- <div>
+        <div class="profileimagecontainer">
         <img src="https://i.postimg.cc/tTymWTbj/888918.png" height="150px" width="150px" alt="Ritesh Mishra"
             class="profileimage" />
     </div>
-    <div>
         <p style="color: white;">
             <strong>OPEN SOURCE</strong> refers to software and projects that are made available to the public with
             their source code freely accessible. <br>
             This means that anyone can view, use, modify and distribute the software. <br>
             Open Source software is often developed collaboratively by a community of volunteers or organizations.
         </p>
-        <!-- ⬇️ This section is modified by enan -->
+        // ⬇️ This section is modified by enan 
         <div style="color: lightgreen;">
             <p style="color: lightgreen; font-size: x-large;text-align: center;">
                 WHY CONTRIBUTE TO OPEN SOURCE? 
@@ -59,7 +62,51 @@
 
             </div>
         </div>
+    </div> -->
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4">
+                <div class="profileimagecontainer">
+                    <img src="https://i.postimg.cc/tTymWTbj/888918.png" alt="Ritesh Mishra" class="profileimage" />
+                </div>
+            </div>
+            <div class="col-md-8">
+                <div class="intro">
+                    <p>
+                       <strong>OPEN SOURCE</strong> refers to software and projects that are made available to the public with
+                        their source code freely accessible.This means that anyone can view, use, modify, and distribute the software. Open Source software is often developed collaboratively by a community of volunteers or organizations.
+                    </p>
+                </div>
+            </div>
+        </div>    <br>
+    <div class="reasons">
+        <p class="reason-title">WHY CONTRIBUTE TO OPEN SOURCE?</p>
+        <table class="table table-striped reason-table">
+            <tbody>
+                <tr>
+                    <th style="color: lightgreen;">💚 Transparency</th>
+                    <td>Open Source code is open for anyone to inspect, which enhances transparency and trust.</td>
+                </tr>
+                <tr>
+                    <th style="color: lightgreen;">🤍 Innovation</th>
+                    <td>A global community of developers can contribute to and improve Open Source projects, driving innovation.</td>
+                </tr>
+                <tr>
+                    <th style="color: lightgreen;">💚 Cost-Efficiency</th>
+                    <td>Open Source software is often free to use, reducing costs for individuals and organizations.</td>
+                </tr>
+                <tr>
+                    <th style="color: lightgreen;">🤍 Flexibility</th>
+                    <td>Users can modify open source software to suit their specific needs.</td>
+                </tr>
+                <tr>
+                    <th style="color: lightgreen;">💚 Security</th>
+                    <td>With many eyes on the code, security vulnerabilities can be identified and fixed more quickly.</td>
+                </tr>
+            </tbody>
+        </table>
     </div>
+
     <div class="name">
         <h3>List of All Open Source Organizations <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="45"
                 height="45">
@@ -69,13 +116,15 @@
             </svg></h3>
     </div>
 
-    <div class="container">
+    <div class="container1">
         <input type="text" id="searchInput" placeholder="Search organizations">
         <div id="divorganization">
 
         </div>
     </div>
-    <script src="search.js"></script>
+</div>
+
+    <script src="./search.js"></script>
     <script src="./script.js"></script>
 </body>
 

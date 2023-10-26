@@ -10,16 +10,108 @@ body {
     background-repeat: no-repeat;
     height: 100%;
   }
-  .profileimage {
+/*  .profileimage {
       border-radius: 50%;
   }
-  .profileimagecontainer {
+ */
+ .container {
+    padding: 20px;
+}
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+    color: white;
+}
+
+.intro {
+    font-size: 1.2rem;
+    text-align: justify;
+}
+.intro {
+    margin-top: 20px;
+    font-weight: 500;
+}
+.reasons {
+    color: lightgreen;
+    font-size: 1.2rem;
+    margin: 20px 0;
+}
+.reason-title {
+    font-size: 1.8rem;
+    color: #333; /* Dark gray text color */
+}
+
+.reason-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: white;
+    margin-bottom: 10px;
+}
+
+.reason-table {
+    margin-top: 20px;
+}
+
+.reason-table th {
+    color: lightgreen;
+}
+
+.reason-table td {
+    text-align: justify;
+}
+.reason-table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.reason-table th, .reason-table td {
+    padding: 8px 12px;
+    text-align: left;
+}
+
+.reason-table th {
+    color: black;
+}
+
+.reason-table td {
+    color: #fff;
+}
+.name h1 {
+    color: lightgreen;
+}
+
+
+.profileimagecontainer {
+    margin-top: 20px;
+}
+.profileimage {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+.profileimage {
+    max-width: 150px;
+    height: auto;
+    border-radius: 50%;
+}
+
+  /* .profileimagecontainer {
       display: flex;
       align-content: center;
       justify-content: center;
       margin-top: 3rem;
       
-  }
+  } */
   p{
     text-align: center;
     font-weight: 500;
@@ -39,7 +131,7 @@ body {
     position: relative;
     top: 0.5rem;
 }
-.container{
+.container1{
     display: flex;
     justify-content: center;
     align-items: center;
