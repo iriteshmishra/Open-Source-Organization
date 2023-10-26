@@ -346,5 +346,13 @@
         {
             "name" : "DrivenData Competitions",
             "url" : "https://www.drivendata.org/competitions/"
+        },
+        {
+            "name" : "JWOC",
+            "url" : "https://jwoc2024.cz/en/home/"
+        },
+        {
+            "name" : "DWOC",
+            "url" : "https://dwoc.io/"
         }
 ]
