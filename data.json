@@ -354,5 +354,9 @@
         {
             "name" : "DWOC",
             "url" : "https://dwoc.io/"
+        },
+        {
+            "name" : "Processing Foundation",
+            "url" : "https://processingfoundation.org/fellowships/"
         }
 ]
