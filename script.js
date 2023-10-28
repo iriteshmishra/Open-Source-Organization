@@ -13,8 +13,8 @@ fetch("./data.json")
     for(let value in data)
     {
         str += `
-        <div>
-            <a href="`+data[value].url+`"><label>`+data[value].name+`</label></a>
+        <div class="organization-tile">
+            <a href="`+data[value].url+`">`+ data[value].name +`</a>
         </div>
         `;
     }
