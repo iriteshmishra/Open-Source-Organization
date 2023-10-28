@@ -358,5 +358,9 @@
         {
             "name" : "Processing Foundation",
             "url" : "https://processingfoundation.org/fellowships/"
+        },
+        {
+            "name" : "Dev Launchers",
+            "url" : "https://devlaunchers.org/"
         }
 ]
