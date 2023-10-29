@@ -362,5 +362,9 @@
         {
             "name" : "Dev Launchers",
             "url" : "https://devlaunchers.org/"
+        },
+        {
+            "name" : "Djangonaut Space Program",
+            "url" : "https://djangonaut.space/"
         }
 ]

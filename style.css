@@ -10,6 +10,11 @@ body {
     background-repeat: no-repeat;
     height: 100%;
   }
+  #divorganization{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 10px;
+  }
   .profileimage {
       border-radius: 50%;
   }
@@ -50,7 +55,13 @@ body {
     /* color: lightblue; */
     color: lightgreen;
   }
-
+  .card{
+    height: 300px;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    padding: 1rem 2rem;
+  }
   input[type="text"],  a {
       display: flex;
       align-content: center;
@@ -63,7 +74,6 @@ body {
       font-size: 2rem;
       margin: 30px;
       padding: 30px;
-      width: 60vw;
       align-items: center;
       font-family: 'Roboto';
       font-weight: 500;

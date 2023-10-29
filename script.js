@@ -14,7 +14,7 @@ fetch("./data.json")
     {
         str += `
         <div>
-            <a href="`+data[value].url+`"><label>`+data[value].name+`</label></a>
+            <a class="card" href="`+data[value].url+`"><label>`+data[value].name+`</label></a>
         </div>
         `;
     }
