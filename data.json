@@ -362,5 +362,9 @@
         {
             "name" : "Dev Launchers",
             "url" : "https://devlaunchers.org/"
+        },
+        {
+          "name": "Djangonaut Space Program : apply to be a volunteer (a navigator, captain or organizer) or a participant (a djangonaut).",
+          "url": "https://djangonaut.space/"
         }
 ]
