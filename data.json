@@ -378,5 +378,9 @@
         {
             "name" : "Softpedia",
             "url" : "https://www.softpedia.com/"
+        },
+        {
+            "name" : "Dev Launchers",
+            "url" : "https://devlaunchers.org/"
         }
 ]
