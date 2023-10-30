@@ -360,11 +360,27 @@
             "url" : "https://processingfoundation.org/fellowships/"
         },
         {
-            "name" : "Dev Launchers",
-            "url" : "https://devlaunchers.org/"
+            "name" : "SourceForge",
+            "url" : "https://sourceforge.net/"
         },
         {
-          "name": "Djangonaut Space Program : apply to be a volunteer (a navigator, captain or organizer) or a participant (a djangonaut).",
-          "url": "https://djangonaut.space/"
+            "name" : "FossHub",
+            "url" : "https://www.fosshub.com/"
+        },
+        {
+            "name" : "FOSS Torrents",
+            "url" : "https://fosstorrents.com/"
+        },
+        {
+            "name" : "F-Droid",
+            "url": "https://f-droid.org/"
+        },
+        {
+            "name" : "Softpedia",
+            "url" : "https://www.softpedia.com/"
+        },
+        {
+            "name" : "Dev Launchers",
+            "url" : "https://devlaunchers.org/"
         }
 ]
