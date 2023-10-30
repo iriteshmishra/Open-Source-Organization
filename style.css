@@ -57,10 +57,10 @@ body {
       justify-content: center;
       border: 1px white solid;
       border-radius: 2rem;
-      background-color: transparent;
-      color: white;
+      background-color: grey;
+      color:whitesmoke;
       text-decoration: none;
-      font-size: 2rem;
+      font-size: 1.3rem;
       margin: 30px;
       padding: 30px;
       width: 60vw;

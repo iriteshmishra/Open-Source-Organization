@@ -358,5 +358,25 @@
         {
             "name" : "Processing Foundation",
             "url" : "https://processingfoundation.org/fellowships/"
+        },
+        {
+            "name" : "GNSS-SDR",
+            "url" : "https://gnss-sdr.org/"
+        },
+        {
+            "name" : "Inkscape",
+            "url" : "https://inkscape.org/"
+        },
+        {
+            "name" : "Scrapy ",
+            "url" : "https://scrapy.org/"
+        },
+        {
+            "name" : "OpenStreetMap",
+            "url" : "https://www.openstreetmap.org/#map=6/9.117/8.674/"
+        },
+        {
+            "name" : "GDevelop",
+            "url" : "https://gdevelop.io/"
         }
 ]
