@@ -46,10 +46,7 @@ body {
     flex-direction: column;
 
 }
-  .name h3{
-    /* color: lightblue; */
-    color: lightgreen;
-  }
+
 
   input[type="text"],  a {
       display: flex;
