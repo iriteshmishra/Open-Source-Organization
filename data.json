@@ -358,5 +358,29 @@
         {
             "name" : "Processing Foundation",
             "url" : "https://processingfoundation.org/fellowships/"
+        },
+        {
+            "name" : "SourceForge",
+            "url" : "https://sourceforge.net/"
+        },
+        {
+            "name" : "FossHub",
+            "url" : "https://www.fosshub.com/"
+        },
+        {
+            "name" : "FOSS Torrents",
+            "url" : "https://fosstorrents.com/"
+        },
+        {
+            "name" : "F-Droid",
+            "url": "https://f-droid.org/"
+        },
+        {
+            "name" : "Softpedia",
+            "url" : "https://www.softpedia.com/"
+        },
+        {
+            "name" : "Dev Launchers",
+            "url" : "https://devlaunchers.org/"
         }
 ]
