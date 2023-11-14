@@ -1,332 +1,126 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
-
-
 body {
-    background: linear-gradient(0deg, #333333, #111111);
-    margin: 0;
-    font-family: 'Roboto', sans-serif;
-    color: white; /* Set text color to white for better contrast */
-}
-body {
-    background-color: #f8f9fa; /* Light gray background color */
-}
-
-.container {
-    padding: 20px;
-}
-
-.profileimage {
-    max-width: 150px;
-    height: auto;
-    border-radius: 50%;
-}
-
-.intro {
-    font-size: 1.2rem;
-    text-align: justify;
-}
-
-.reason-table {
-    margin-top: 20px;
-}
-
-.reason-table th {
-    color: lightgreen;
-}
-
-.reason-table td {
-    text-align: justify;
-}
-
-.reason-title {
-    font-size: 1.8rem;
-    color: #333; /* Dark gray text color */
-}
-
-.name h1 {
-    font-size: 2rem;
-    color: #333;
-}
-
-.search-bar {
-    margin: 20px 0;
-}
-
-body {
-    background-color: #f8f9fa;
-    font-family: Arial, sans-serif;
-    margin: 0;
-}
-    /* Style for the search container */
-    .search-container {
-        text-align: center;
-        margin: 20px 0;
-    }
-
-    /* Style for the search input and label */
-    .search-bar {
-        display: flex;
-        align-items: center;
-        border: 2px solid #007bff;
-        border-radius: 25px;
-        padding: 8px;
-        background-color: #c7ecc7; /* Light green background color */
-        width: 100%;
-        margin: 20px 0;
-    }
-
-    .search-label {
-        margin-right: 10px;
-        font-weight: bold;
-        color: #007bff;
-    }
-
-    /* Style for the input field */
-    #searchInput {
-        border: none;
-        outline: none;
-        width: 100%;
-        color: #115911; /* Dark green text color */
-    }
-
-    /* Highlight effect on input focus */
-    #searchInput:focus {
-        box-shadow: 0 0 5px #007bff;
-    }
-
-.container {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 20px;
-}
-
-.name h1 {
-    font-size: 2rem;
-    color: #333;
-}
-
-.search-bar {
-    margin: 20px 0;
-}
-
-.organization-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-    gap: 20px;
-}
-
-
-.organization-tile {
-    background-color: #c7ecc7; /* Light green background color */
-    border: 1px solid #007bff; /* Blue border */
-    border-radius: 5px;
-    padding: 10px;
+    background: rgb(0, 0, 0);
+    background: linear-gradient(
+        0deg,
+        rgb(212, 207, 175) 0%
+        rgba(228, 217, 255, 1) 0%
+        rgba(30,39,73,1) 100%
+    );
+    background-repeat: no-repeat;
+    height: 100%;
+  }
+  .profileimage {
+      border-radius: 50%;
+  }
+  .profileimagecontainer {
+      display: flex;
+      align-content: center;
+      justify-content: center;
+      margin-top: 3rem;
+      
+  }
+  p{
     text-align: center;
-    border-radius: 8px;
-
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-}
-
-.organization-tile a {
-    text-decoration: none;
-    color: #333;
-}
-
-.organization-tile a i {
-    margin-right: 10px;
-    font-size: 24px;
-}
-
-.organization-tile:hover {
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-}
-
-.organization-list a {
-    display: block;
-    padding: 10px;
-    background-color: white;
-    border: 1px solid #ccc; /* Light gray border */
-    border-radius: 5px;
-    margin: 10px 0;
-    color: #333;
-    transition: background-color 0.3s, transform 0.3s;
-}
-
-.organization-list a:hover {
-    background-color: lightgreen;
-    border: 1px solid transparent;
-    color: #333;
-    transform: scale(1.04);
-}
-
-.theme-toggle {
-    position: fixed;
-    top: 20px;
-    right: 20px;
-    cursor: pointer;
-    z-index: 999;
-}
-
-.theme-toggle i {
-    font-size: 24px;
-    margin: 5px;
-}
-
-.reason-table {
-    border-collapse: collapse;
-    width: 100%;
-}
-
-.reason-table th, .reason-table td {
-    padding: 8px 12px;
-    text-align: left;
-}
-
-.reason-table th {
-    color: black;
-}
-
-.reason-table td {
-    color: #fff;
-}
-
-/* Add this to your existing CSS file or create a new one */
-.reason-list {
-    list-style: none;
-    padding: 0;
-    text-align: left;
-}
-
-.reason-item {
-    margin-bottom: 20px;
-}
-
-.reason-header {
-    font-weight: bold;
-    color: lightgreen;
-    font-size: 1.2rem;
-}
-
-.reason-description {
-    color: white;
-    font-size: 1rem;
-}
-
-
-.container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
-    padding: 20px;
-    max-width: 800px;
-    margin: 0 auto;
-    color: white;
-}
-
-.profileimagecontainer {
-    margin-top: 20px;
-}
-
-.profileimage {
-    border-radius: 50%;
-    width: 150px;
-    height: 150px;
-}
-
-.intro {
-    margin-top: 20px;
     font-weight: 500;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  }
+  .name {
+      display: flex;
+      align-content: center;
+      justify-content: center;
+      color: rgb(243, 236, 236);
+      font-family:Roboto;
+      font-size: 2rem;
+      
+  }
+.name svg{
+    padding-top: 1rem;
+    position: relative;
+    top: 0.5rem;
 }
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 
-.reasons {
+}
+  .name h3{
+    /* color: lightblue; */
     color: lightgreen;
-    font-size: 1.2rem;
-    margin: 20px 0;
-}
+  }
 
-.reason-title {
-    font-size: 1.5rem;
-    font-weight: bold;
-    color: white;
-    margin-bottom: 10px;
-}
+  input[type="text"],  a {
+      display: flex;
+      align-content: center;
+      justify-content: center;
+      border: 1px white solid;
+      border-radius: 2rem;
+      background-color: transparent;
+      color: white;
+      text-decoration: none;
+      font-size: 2rem;
+      margin: 30px;
+      padding: 30px;
+      width: 60vw;
+      align-items: center;
+      font-family: 'Roboto';
+      font-weight: 500;
+      transition: 0.5s all;
+    }
+    input[type="text"] {
+        outline-color: lightgreen;
+    }
+    a:hover {
+        transform: scale(1.04);
+        background-color: lightgreen;
+        border: none;
+        color: black;
+        transition: 0.5s all;
+        font-weight: bolder;
+        
+    }
 
-ul {
-    list-style: none;
-    padding: 0;
-}
+    @media screen and (max-width: 600px) {
+        .name {
+            font-size: 20px;            
+        }
+        .profileimage {
+            height: 180px;
+            width: 180px;
+        }
+        body {
+            height: 75%;
+        }
+    }
 
-ul li {
-    margin-bottom: 10px;
-}
+    @media screen and (max-width: 426px) {
+        .name {
+            font-size: 15px;            
+        }
+        a {
+            font-size: 1.7rem;
+        }
+        .profileimage {
+            height: 170px;
+            width: 170px;
+        }
+    
+    }
 
-.name h1 {
-    color: lightgreen;
-}
-
-.search-bar {
-    margin: 20px 0;
-}
-.reasons {
-    color: lightgreen;
-    font-size: 1.2rem;
-    margin: 20px 0;
-}
-
-.reason-title {
-    font-size: 1.5rem;
-    font-weight: bold;
-    color: white;
-    margin-bottom: 10px;
-}
-
-.reason-list {
-    list-style: none;
-    padding: 0;
-    text-align: left;
-}
-
-.reason-list li {
-    margin-bottom: 10px;
-}
-
-.reason-list li strong {
-    color: lightgreen;
-    font-weight: bold;
-}
-
-
-input[type="text"] {
-    border: none;
-    border-radius: 2rem;
-    background-color: transparent;
-    color: white;
-    text-align: center;
-    font-size: 1.5rem;
-    padding: 10px;
-    width: 100%;
-    outline-color: lightgreen;
-}
-
-a {
-    display: block;
-    background-color: transparent;
-    color: white;
-    text-decoration: none;
-    font-size: 1.2rem;
-    margin: 10px 0;
-    padding: 10px;
-    width: 100%;
-    border: 1px solid white;
-    border-radius: 2rem;
-    transition: 0.5s;
-}
-
-a:hover {
-    transform: scale(1.04);
-    background-color: lightgreen;
-    border: none;
-    color: black;
-    font-weight: bold;
-}
+    @media screen and (max-width: 330px) and (min-width: 60px){
+        .name {
+            font-size: 8px;            
+        }
+        a {
+            font-size: 1.2rem;
+        }
+        .profileimage {
+            height: 150px;
+            width: 150px;
+        }
+        body {
+            height: 50%;
+        }
+    }
