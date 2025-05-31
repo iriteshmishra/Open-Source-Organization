@@ -1,386 +1,394 @@
 [
-        {
-            "name" : "Google Summer of Code (GSoC)",
-            "url" : "https://summerofcode.withgoogle.com/"
-        },
-        {
-            "name" : "Google Season of Docs (GSoD)",
-            "url" : "https://developers.google.com/season-of-docs"
-        },
-        {
-            "name" : "amFOSS Developer Challenge (amDeC)",
-            "url" : "https://amdec.amfoss.in/"
-        },
-        {
-            "name" : "Redox OS Summer of Code (RSoC)",
-            "url" : "https://www.redox-os.org/rsoc/"
-        },
-        {
-            "name" : "MLH Fellowship",
-            "url" : "https://fellowship.mlh.io/"
-        },
-        {
-            "name" : "Linux Foundation Mentorship Program (LFX)",
-            "url" : "https://docs.linuxfoundation.org/lfx/mentorship/mentorship-program-timelines"
-        },
-        {
-            "name" : "Outreachy",
-            "url" : "https://www.outreachy.org/"
-        },
-        {
-            "name" : "Eclipse Foundation",
-            "url" : "https://www.eclipse.org/"
-        },
-        {
-            "name" : "FOSSASIA Codeheat",
-            "url" : "https://codeheat.org/"
-        },
-        {
-            "name" : "Linux Kernel Mentorship Program",
-            "url" : "https://wiki.linuxfoundation.org/lkmp"
-        },
-        {
-            "name" : "Red Hat Open Source Internship",
-            "url" : "https://www.redhat.com/en/about/open-source-education/students"
-        },
-        {
-            "name" : "Season of KDE",
-            "url" : "https://season.kde.org/"
-        },
-        {
-            "name" : "Apache Summer of Code",
-            "url" : "https://community.apache.org/gsoc/"
-        },
-        {
-            "name" : "LFN Mentorship Program",
-            "url" : "https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program"
-        },
-        {
-            "name" : "GitHub Octernships",
-            "url" : "https://education.github.com/students/octernships"
-        },
-        {
-            "name" : "Mozilla Open Source Student Network",
-            "url" : "https://community.mozilla.org/en/"
-        },
-        {
-            "name" : "LFX Mentorship",
-            "url" : "https://mentorship.lfx.linuxfoundation.org/#projects_all"
-        },
-        {
-            "name" : "JIIT Open-Source Developers Circle",
-            "url" : "https://jiitodc.netlify.app/"
-        },
-        {
-            "name" : "Tensorflow World",
-            "url" : "https://tensorflow-world.readthedocs.io/en/latest/"
-        },
-        {
-            "name" : "GirlScript Summer of Code (GSSoC)",
-            "url" : "https://gssoc.girlscript.tech/"
-        },
-        {
-            "name" : "IIITA Open code",
-            "url" : "https://opencodeiiita.github.io/"
-        },
-        {
-            "name" : "Summer of Bitcoin",
-            "url" : "https://www.summerofbitcoin.org/"
-        },
-        {
-            "name" : "Open Mainframe Project Mentorship Program- Linux Foundation",
-            "url" : "https://www.openmainframeproject.org/all-projects/mentorship-program"
-        },
-        {
-            "name" : "Smart India Hackathon (SIH)",
-            "url" : "https://www.sih.gov.in/"
-        },
-        {
-            "name" : "Hacktoberfest",
-            "url" : "https://hacktoberfest.com/"
-        },
-        {
-            "name" : "Kharagpur Winter of Code (KWoC)",
-            "url" : "https://kwoc.kossiitkgp.org/"
-        },
-        {
-            "name" : "24 Pull Requests",
-            "url" : "https://24pullrequests.com/"
-        },
-        {
-            "name" : "XROS Fellowship",
-            "url" : "https://xrosfellowship.ficci.in/organization/list"
-        },
-        {
-            "name" : "Free Software Foundation (FSF)",
-            "url" : "https://www.fsf.org/volunteer/internships"
-        },
-        {
-            "name" : "Julia Seasons of Contributions (JSoC)",
-            "url" : "https://julialang.org/jsoc/"
-        },
-        {
-            "name" : "Summer of Haskell",
-            "url" : "https://summer.haskell.org/"
-        },
-        {
-            "name" : "Hyperledger Mentorship Program",
-            "url" : "https://wiki.hyperledger.org/display/INTERN/Hyperledger+Mentorship+Program"
-        },
-        {
-            "name" : "X.Org Endless Vacation of Code (EVoC)",
-            "url" : "https://www.x.org/wiki/XorgEVoC/"
-        },
-        {
-            "name" : "Open Source of Code",
-            "url" : "https://osoc.be/practical#Student%20applications"
-        },
-        {
-            "name" : "FOSSASIA Internship Program",
-            "url" : "https://docs.google.com/forms/d/e/1FAIpQLScp8h5SIPVK5G2SAm5vtrv7KLKeOeYTxlZBkDRE6I7Toybt0A/viewform"
-        },
-        {
-            "name" : "Rust Foundation",
-            "url" : "https://foundation.rust-lang.org/"
-        },
-        {
-            "name" : "FireBird Foundation",
-            "url" : "https://firebirdsql.org/en/firebird-foundation/"
-        },
-        {
-            "name" : "Perl Foundation",
-            "url" : "https://www.perlfoundation.org/"
-        },
-        {
-            "name" : "Cloud Native Computing",
-            "url" : "https://www.cncf.io/"
-        },
-        {
-            "name" : "Flatcar Container Linux",
-            "url" : "https://www.flatcar.org/"
-        },
-        {
-            "name" : "GitHub Open Source",
-            "url" : "https://github.com/collections/open-source-organizations"
-        },
-        {
-            "name" : "Data For Good",
-            "url" : "https://dataforgood.fr/"
-        },
-        {
-            "name" : "The PostgreSQL Global Development Group",
-            "url" : "https://www.postgresql.org/"
-        },
-        {
-            "name" : "John Hunter Matplotlib Summer Fellowship",
-            "url" : "https://numfocus.org/programs/john-hunter-technology-fellowship"
-        },
-        {
-            "name" : "Open Source Initiative",
-            "url" : "https://opensource.org/"
-        },
-        {
-            "name" : "Orange Open Source",
-            "url" : "https://orange-opensource.github.io/"
-        },
-        {
-            "name" : "OASIS-OPEN",
-            "url" : "https://www.oasis-open.org/"
-        },
-        {
-            "name" : "Google Summer of Earth Engine",
-            "url" : "https://sites.google.com/view/summerofearthengine/home"
-        },
-        {
-            "name" : "Bountiful Open Source Summer (BOSS)",
-            "url" : "https://lab.codingblocks.com/boss"
-        },        
-        {
-            "name" : "PClub Summer Of Code",
-            "url" : "https://www.pclubsummerofcode.in/"
-        },
-        {
-            "name" : "RGSOC",
-            "url" : "https://railsgirlssummerofcode.org/"
-        },
-        {
-            "name" : "Igalia Coding Experience Program",
-            "url" : "https://www.igalia.com/coding-experience/"
-        },
-        {
-            "name" : "Microsoft Reinforcement Learning Open Source Fest",
-            "url" : "https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/"
-        },
-        {
-            "name" : "Project Jupyter",
-            "url" : "https://jupyter.org/"
-        },
-        {
-            "name" : "Clear Foundation",
-            "url" : "https://www.clearos.com/clearfoundation/code/clearos-code-base"
-        },
-        {
-            "name" : "Open Source Hardware Association",
-            "url" : "https://www.oshwa.org/"
-        },
-        {
-            "name" : "Open Source Security Foundation",
-            "url" : "https://openssf.org/"
-        },
-        {
-            "name" : "GirlScript Winter of Code (GSWoC)",
-            "url" : "https://gwoc.girlscript.tech/"
-        },
-        {
-            "name" : "GNOME Foundation",
-            "url" : "https://foundation.gnome.org/"
-        },
-        {
-            "name" : "Social Winter Of Code (SWoC)",
-            "url" : "https://hack2skill.com/hack/swoc/"
-        },
-        {
-            "name" : "Libhunt by 24Pullrequest.com",
-            "url" : "https://www.libhunt.com/"
-        },
-        {
-            "name" : "Social Summer Of Code (SSoC)",
-            "url" : "https://hack2skill.com/hack/ssoc/"
-        },
-        {
-            "name" : "Alibaba Summer Of Code",
-            "url" : "https://www.alibabacloud.com/campaign/summerofcode2020"
-        },
-        {
-            "name" : "Bountiful Open Source Summer",
-            "url" : "https://lab.codingblocks.com/boss"
-        },
-        {
-            "name" : "VideoLAN",
-            "url" : "https://www.videolan.org/"
-        },
-        {
-            "name" : "NSO (Network Service Orchestrator)",
-            "url" : "https://nso.io/"
-        },
-        {
-            "name" : "Quokka Project",
-            "url" : "https://quokkaproject.org/"
-        },
-        {
-            "name" : "Parrot Security",
-            "url" : "https://parrotsec.org/"
-        },
-        {
-            "name" : "LF Energy",
-            "url" : "https://www.lfenergy.org/"
-        },
-        {
-            "name" : "Pulp Project",
-            "url" : "https://pulp.plan.io/"
-        },
-        {
-            "name" : "FreeRTOS",
-            "url" : "https://www.freertos.org/"
-        },
-        {
-            "name" : "ripgrep",
-            "url" : "https://ripgrep.github.io/"
-        },
-        {
-            "name" : "Internet Archive",
-            "url" : "https://archive.org/"
-        },
-        {
-            "name" : "Code for GovTech (C4GT)",
-            "url" : "https://www.codeforgovtech.in/"
-        },
-        {
-            "name" : "Software in the Public Interest",
-            "url" : "https://www.spi-inc.org/"
-        },
-        {
-            "name" : "FreeMarker",
-            "url" : "https://freemarker.apache.org/"
-        },
-        {
-            "name" : "Open Source Lab by Stanford University",
-            "url" : "https://opensource.stanford.edu/"
-        },
-        {
-            "name" : "Open Source backend system by AppWrite",
-            "url" : "https://appwrite.io/"
-        },
-        {
-            "name" : "Open Source continuous deployment system by Charles",
-            "url" : "https://charlescd.io/"
-        },
-        {
-            "name" : "All In: an open source organization with programs for students and Africans",
-            "url" : "https://allinopensource.org/"
-        },
-        {
-            "name" : "The Document Foundation",
-            "url" : "https://www.documentfoundation.org/"
-        },
-        {
-            "name" : "Linux Foundation Networking (LFN) Mentorship Program",
-            "url" : "https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program"
-        },
-        {
-            "name" : "OWASP Foundation",
-            "url" : "https://owasp.org/events/"
-        },
-        {
-            "name" : "Free Software Foundation",
-            "url" : "https://www.fsf.org/events/aggregator/"
-        },
-        {
-            "name" : "LetsGrowMore Summer of Code",
-            "url" : "https://letsgrowmore.in/soc/"
-        },
-        {
-            "name" : "HackSquad",
-            "url" : "https://www.hacksquad.dev"
-        },
-        {
-            "name" : "DrivenData Competitions",
-            "url" : "https://www.drivendata.org/competitions/"
-        },
-        {
-            "name" : "JWOC",
-            "url" : "https://jwoc2024.cz/en/home/"
-        },
-        {
-            "name" : "DWOC",
-            "url" : "https://dwoc.io/"
-        },
-        {
-            "name" : "Processing Foundation",
-            "url" : "https://processingfoundation.org/fellowships/"
-        },
-        {
-            "name" : "SourceForge",
-            "url" : "https://sourceforge.net/"
-        },
-        {
-            "name" : "FossHub",
-            "url" : "https://www.fosshub.com/"
-        },
-        {
-            "name" : "FOSS Torrents",
-            "url" : "https://fosstorrents.com/"
-        },
-        {
-            "name" : "F-Droid",
-            "url": "https://f-droid.org/"
-        },
-        {
-            "name" : "Softpedia",
-            "url" : "https://www.softpedia.com/"
-        },
-        {
-            "name" : "Dev Launchers",
-            "url" : "https://devlaunchers.org/"
-        }
+  {
+    "name": "Google Summer of Code (GSoC)",
+    "url": "https://summerofcode.withgoogle.com/"
+  },
+  {
+    "name": "Google Season of Docs (GSoD)",
+    "url": "https://developers.google.com/season-of-docs"
+  },
+  {
+    "name": "amFOSS Developer Challenge (amDeC)",
+    "url": "https://amdec.amfoss.in/"
+  },
+  {
+    "name": "Redox OS Summer of Code (RSoC)",
+    "url": "https://www.redox-os.org/rsoc/"
+  },
+  {
+    "name": "MLH Fellowship",
+    "url": "https://fellowship.mlh.io/"
+  },
+  {
+    "name": "Linux Foundation Mentorship Program (LFX)",
+    "url": "https://docs.linuxfoundation.org/lfx/mentorship/mentorship-program-timelines"
+  },
+  {
+    "name": "Outreachy",
+    "url": "https://www.outreachy.org/"
+  },
+  {
+    "name": "Eclipse Foundation",
+    "url": "https://www.eclipse.org/"
+  },
+  {
+    "name": "FOSSASIA Codeheat",
+    "url": "https://codeheat.org/"
+  },
+  {
+    "name": "Linux Kernel Mentorship Program",
+    "url": "https://wiki.linuxfoundation.org/lkmp"
+  },
+  {
+    "name": "Red Hat Open Source Internship",
+    "url": "https://www.redhat.com/en/about/open-source-education/students"
+  },
+  {
+    "name": "Season of KDE",
+    "url": "https://season.kde.org/"
+  },
+  {
+    "name": "Apache Summer of Code",
+    "url": "https://community.apache.org/gsoc/"
+  },
+  {
+    "name": "LFN Mentorship Program",
+    "url": "https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program"
+  },
+  {
+    "name": "GitHub Octernships",
+    "url": "https://education.github.com/students/octernships"
+  },
+  {
+    "name": "Mozilla Open Source Student Network",
+    "url": "https://community.mozilla.org/en/"
+  },
+  {
+    "name": "LFX Mentorship",
+    "url": "https://mentorship.lfx.linuxfoundation.org/#projects_all"
+  },
+  {
+    "name": "JIIT Open-Source Developers Circle",
+    "url": "https://jiitodc.netlify.app/"
+  },
+  {
+    "name": "Tensorflow World",
+    "url": "https://tensorflow-world.readthedocs.io/en/latest/"
+  },
+  {
+    "name": "GirlScript Summer of Code (GSSoC)",
+    "url": "https://gssoc.girlscript.tech/"
+  },
+  {
+    "name": "IIITA Open code",
+    "url": "https://opencodeiiita.github.io/"
+  },
+  {
+    "name": "Summer of Bitcoin",
+    "url": "https://www.summerofbitcoin.org/"
+  },
+  {
+    "name": "Open Mainframe Project Mentorship Program- Linux Foundation",
+    "url": "https://www.openmainframeproject.org/all-projects/mentorship-program"
+  },
+  {
+    "name": "Smart India Hackathon (SIH)",
+    "url": "https://www.sih.gov.in/"
+  },
+  {
+    "name": "Hacktoberfest",
+    "url": "https://hacktoberfest.com/"
+  },
+  {
+    "name": "Kharagpur Winter of Code (KWoC)",
+    "url": "https://kwoc.kossiitkgp.org/"
+  },
+  {
+    "name": "24 Pull Requests",
+    "url": "https://24pullrequests.com/"
+  },
+  {
+    "name": "XROS Fellowship",
+    "url": "https://xrosfellowship.ficci.in/organization/list"
+  },
+  {
+    "name": "Free Software Foundation (FSF)",
+    "url": "https://www.fsf.org/volunteer/internships"
+  },
+  {
+    "name": "Julia Seasons of Contributions (JSoC)",
+    "url": "https://julialang.org/jsoc/"
+  },
+  {
+    "name": "Summer of Haskell",
+    "url": "https://summer.haskell.org/"
+  },
+  {
+    "name": "Hyperledger Mentorship Program",
+    "url": "https://wiki.hyperledger.org/display/INTERN/Hyperledger+Mentorship+Program"
+  },
+  {
+    "name": "X.Org Endless Vacation of Code (EVoC)",
+    "url": "https://www.x.org/wiki/XorgEVoC/"
+  },
+  {
+    "name": "Open Source of Code",
+    "url": "https://osoc.be/practical#Student%20applications"
+  },
+  {
+    "name": "FOSSASIA Internship Program",
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLScp8h5SIPVK5G2SAm5vtrv7KLKeOeYTxlZBkDRE6I7Toybt0A/viewform"
+  },
+  {
+    "name": "Rust Foundation",
+    "url": "https://foundation.rust-lang.org/"
+  },
+  {
+    "name": "FireBird Foundation",
+    "url": "https://firebirdsql.org/en/firebird-foundation/"
+  },
+  {
+    "name": "Perl Foundation",
+    "url": "https://www.perlfoundation.org/"
+  },
+  {
+    "name": "Cloud Native Computing",
+    "url": "https://www.cncf.io/"
+  },
+  {
+    "name": "Flatcar Container Linux",
+    "url": "https://www.flatcar.org/"
+  },
+  {
+    "name": "GitHub Open Source",
+    "url": "https://github.com/collections/open-source-organizations"
+  },
+  {
+    "name": "Data For Good",
+    "url": "https://dataforgood.fr/"
+  },
+  {
+    "name": "The PostgreSQL Global Development Group",
+    "url": "https://www.postgresql.org/"
+  },
+  {
+    "name": "John Hunter Matplotlib Summer Fellowship",
+    "url": "https://numfocus.org/programs/john-hunter-technology-fellowship"
+  },
+  {
+    "name": "Open Source Initiative",
+    "url": "https://opensource.org/"
+  },
+  {
+    "name": "Orange Open Source",
+    "url": "https://orange-opensource.github.io/"
+  },
+  {
+    "name": "OASIS-OPEN",
+    "url": "https://www.oasis-open.org/"
+  },
+  {
+    "name": "Google Summer of Earth Engine",
+    "url": "https://sites.google.com/view/summerofearthengine/home"
+  },
+  {
+    "name": "Bountiful Open Source Summer (BOSS)",
+    "url": "https://lab.codingblocks.com/boss"
+  },
+  {
+    "name": "PClub Summer Of Code",
+    "url": "https://www.pclubsummerofcode.in/"
+  },
+  {
+    "name": "RGSOC",
+    "url": "https://railsgirlssummerofcode.org/"
+  },
+  {
+    "name": "Igalia Coding Experience Program",
+    "url": "https://www.igalia.com/coding-experience/"
+  },
+  {
+    "name": "Microsoft Reinforcement Learning Open Source Fest",
+    "url": "https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/"
+  },
+  {
+    "name": "Project Jupyter",
+    "url": "https://jupyter.org/"
+  },
+  {
+    "name": "Clear Foundation",
+    "url": "https://www.clearos.com/clearfoundation/code/clearos-code-base"
+  },
+  {
+    "name": "Open Source Hardware Association",
+    "url": "https://www.oshwa.org/"
+  },
+  {
+    "name": "Open Source Security Foundation",
+    "url": "https://openssf.org/"
+  },
+  {
+    "name": "GirlScript Winter of Code (GSWoC)",
+    "url": "https://gwoc.girlscript.tech/"
+  },
+  {
+    "name": "GNOME Foundation",
+    "url": "https://foundation.gnome.org/"
+  },
+  {
+    "name": "Social Winter Of Code (SWoC)",
+    "url": "https://hack2skill.com/hack/swoc/"
+  },
+  {
+    "name": "Libhunt by 24Pullrequest.com",
+    "url": "https://www.libhunt.com/"
+  },
+  {
+    "name": "Social Summer Of Code (SSoC)",
+    "url": "https://hack2skill.com/hack/ssoc/"
+  },
+  {
+    "name": "Alibaba Summer Of Code",
+    "url": "https://www.alibabacloud.com/campaign/summerofcode2020"
+  },
+  {
+    "name": "Bountiful Open Source Summer",
+    "url": "https://lab.codingblocks.com/boss"
+  },
+  {
+    "name": "VideoLAN",
+    "url": "https://www.videolan.org/"
+  },
+  {
+    "name": "NSO (Network Service Orchestrator)",
+    "url": "https://nso.io/"
+  },
+  {
+    "name": "Quokka Project",
+    "url": "https://quokkaproject.org/"
+  },
+  {
+    "name": "Parrot Security",
+    "url": "https://parrotsec.org/"
+  },
+  {
+    "name": "LF Energy",
+    "url": "https://www.lfenergy.org/"
+  },
+  {
+    "name": "Pulp Project",
+    "url": "https://pulp.plan.io/"
+  },
+  {
+    "name": "FreeRTOS",
+    "url": "https://www.freertos.org/"
+  },
+  {
+    "name": "ripgrep",
+    "url": "https://ripgrep.github.io/"
+  },
+  {
+    "name": "Internet Archive",
+    "url": "https://archive.org/"
+  },
+  {
+    "name": "Code for GovTech (C4GT)",
+    "url": "https://www.codeforgovtech.in/"
+  },
+  {
+    "name": "Software in the Public Interest",
+    "url": "https://www.spi-inc.org/"
+  },
+  {
+    "name": "FreeMarker",
+    "url": "https://freemarker.apache.org/"
+  },
+  {
+    "name": "Open Source Lab by Stanford University",
+    "url": "https://opensource.stanford.edu/"
+  },
+  {
+    "name": "Open Source backend system by AppWrite",
+    "url": "https://appwrite.io/"
+  },
+  {
+    "name": "Open Source continuous deployment system by Charles",
+    "url": "https://charlescd.io/"
+  },
+  {
+    "name": "All In: an open source organization with programs for students and Africans",
+    "url": "https://allinopensource.org/"
+  },
+  {
+    "name": "The Document Foundation",
+    "url": "https://www.documentfoundation.org/"
+  },
+  {
+    "name": "Linux Foundation Networking (LFN) Mentorship Program",
+    "url": "https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program"
+  },
+  {
+    "name": "OWASP Foundation",
+    "url": "https://owasp.org/events/"
+  },
+  {
+    "name": "Free Software Foundation",
+    "url": "https://www.fsf.org/events/aggregator/"
+  },
+  {
+    "name": "LetsGrowMore Summer of Code",
+    "url": "https://letsgrowmore.in/soc/"
+  },
+  {
+    "name": "HackSquad",
+    "url": "https://www.hacksquad.dev"
+  },
+  {
+    "name": "DrivenData Competitions",
+    "url": "https://www.drivendata.org/competitions/"
+  },
+  {
+    "name": "JWOC",
+    "url": "https://jwoc2024.cz/en/home/"
+  },
+  {
+    "name": "DWOC",
+    "url": "https://dwoc.io/"
+  },
+  {
+    "name": "Processing Foundation",
+    "url": "https://processingfoundation.org/fellowships/"
+  },
+  {
+    "name": "SourceForge",
+    "url": "https://sourceforge.net/"
+  },
+  {
+    "name": "FossHub",
+    "url": "https://www.fosshub.com/"
+  },
+  {
+    "name": "FOSS Torrents",
+    "url": "https://fosstorrents.com/"
+  },
+  {
+    "name": "F-Droid",
+    "url": "https://f-droid.org/"
+  },
+  {
+    "name": "Softpedia",
+    "url": "https://www.softpedia.com/"
+  },
+  {
+    "name": "Dev Launchers",
+    "url": "https://devlaunchers.org/"
+  },
+  {
+    "name": "Pieces App",
+    "url": "https://github.com/pieces-app/"
+  },
+  {
+    "name": "Ossguild",
+    "url": "https://github.com/ossguild/"
+  }
 ]
